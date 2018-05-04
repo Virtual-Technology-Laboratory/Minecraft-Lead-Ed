@@ -1,0 +1,14 @@
+[{
+	"modid": "LeadExposure",
+	"name": "LeadExposure",
+	"description": "This mod is used for a series of lesson plans to help kids learn how to avoid lead contamination in their environments",
+	"version": "1.0.0",
+	"mcversion": "1.12",
+	"url": "",
+	"updateUrl": "",
+	"authorList": ["Austin Braymen"],
+	"credits": "",
+	"logoFile": "",
+	"screenshots": [""],
+	"dependencies": []
+}]
