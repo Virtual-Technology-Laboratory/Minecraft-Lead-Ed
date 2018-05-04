@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "8080b13c-2bfa-4ff1-b142-2199715e18dc",
+    "name": "adbslayer",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "f5063e37-2145-4124-81ab-fe93fd57587c",
+    "name": "pBminer",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
