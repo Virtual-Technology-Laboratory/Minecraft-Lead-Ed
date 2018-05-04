@@ -15,3 +15,7 @@ The Forge Server containing the world.
 
 Contains the project for building the LeadEd mod. The mod is forked from 
 github.com/mccreery/better-hud and licensed under GPL v3
+
+## Project Contributors
+
+Austin Brayman (madbrained), Roger Lew (rogerlew), Dylan Luchini
